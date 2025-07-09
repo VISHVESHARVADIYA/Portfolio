@@ -116,7 +116,7 @@ function App() {
           </h1>
           <div className="relative">
             <p className="text-xl sm:text-2xl lg:text-3xl text-gray-200 font-light tracking-wide">
-              UI/UX & Cyber Security Explorer
+              Devops & Cyber Security Explorer
             </p>
             <div className="absolute -inset-2 bg-gradient-to-r from-blue-500/20 to-purple-500/20 rounded-lg blur-xl animate-pulse"></div>
           </div>
